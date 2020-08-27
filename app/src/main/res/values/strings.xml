@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Square repos</string>
+    <string name="generic_error">Error while fetching data</string>
+</resources>
